@@ -16,8 +16,12 @@ If the CORS configuration isn't setup correctly, the browser console will presen
 
 If you don't set up CORS then accessing resources from a server different from your own will be a security concern for the browser and you will get an error message telling you that your request has failed. So let's look at how we can use nodeJS and the cors middleware to address this. 
 
-First thing to do is to set up express.
+First thing to do is to install express.
 
 ``` 
 npm i express 
+```
+And then install cors.
+```
+npm i cors
 ```
