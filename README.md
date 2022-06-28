@@ -2,11 +2,11 @@
 
 I wanted to learn more about what the cors middleware is actually doing.
 
-<br><br>
+<br>
 
 In this brief repo I am conducting some experiments in order to try and get a better idea.
 
-<br><br>
+<br>
 
 From https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS/Errors
 
