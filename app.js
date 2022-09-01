@@ -2,7 +2,7 @@ const express = require("express");
 const app = express();
 const cors = require("cors");
 app.use(cors({
-  origin: 'https://www.emileholba.co.uk'
+  origin: 'https://gawainhewitt.co.uk'
 }));
 
 app.get('/', (req, res) => {
